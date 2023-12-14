@@ -6,7 +6,9 @@
 
 Pastikan Anda memiliki Python 3 dan pip terinstal. Jalankan perintah berikut untuk menginstal dependensi yang dibutuhkan:
 
-`pip install -r req.txt`
+```cmd 
+pip install -r req.txt
+```
 
 ## Penggunaan
 
