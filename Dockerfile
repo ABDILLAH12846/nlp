@@ -10,7 +10,8 @@ RUN pip install \
     Flask \
     scikit-learn \
     numpy==1.26.2 \
-    joblib
+    joblib\
+    flask-cors
 
 WORKDIR /app
 
